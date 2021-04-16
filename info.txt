@@ -5,5 +5,7 @@ Docker in Production
 RADEON GRAPHICS
 README file
 Panasonic tv
+next MAven has to practice
+tasks should do to get best experience
 before that git has to finish
-git is version control tool
+git
