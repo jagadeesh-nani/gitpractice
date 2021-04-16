@@ -6,3 +6,4 @@ RADEON GRAPHICS
 README file
 Panasonic tv
 before that git has to finish
+git
