@@ -5,5 +5,6 @@ Docker in Production
 RADEON GRAPHICS
 README file
 Panasonic tv
-before that git has to finish
-git
+next MAven has to practice
+tasks should do to get best experience
+
