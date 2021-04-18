@@ -11,3 +11,4 @@ before that git has to finish
 git
 search market place
 soft reset using
+fixing bug
