@@ -10,3 +10,4 @@ tasks should do to get best experience
 before that git has to finish
 git
 search market place
+soft reset using
